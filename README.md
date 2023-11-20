@@ -8,4 +8,5 @@ FEATURES: mart irrigation systems incorporate various features that leverage tec
 ![Green Modern The Power Of Recycling Mind Map](https://github.com/vaishnavipoojary19/Smart-irrigation/assets/149662396/dede3ec0-52c9-4879-ae5f-56d3cb89cb1f)
 
 **flowchart**
-![Screenshot 2023-11-20 120728](https://github.com/vaishnavipoojary19/Smart-irrigation/assets/149662396/da4327a5-d183-45d8-96cc-c6e6c3eaace6)
+![Screenshot 2023-11-20 132119](https://github.com/vaishnavipoojary19/Smart-irrigation/assets/149662396/dd06713a-f24a-42d4-9e8b-49acb412c1fa)
+
