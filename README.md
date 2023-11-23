@@ -6,7 +6,8 @@ FEATURES: mart irrigation systems incorporate various features that leverage tec
 
 **Mind mapping**
 
-![WhatsApp Image 2023-11-23 at 10 36 29 AM](https://github.com/vaishnavipoojary19/Smart-irrigation/assets/149662396/44b2fceb-c488-4324-bf18-287e649672ea)
+![WhatsApp Image 2023-11-23 at 10 36 29 AM](https://github.com/vaishnavipoojary19/Smart-irrigation/assets/149662396/e476773d-cbe5-4231-9973-032b333be6a0)
+
 
 
 **flowchart:
